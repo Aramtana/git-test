@@ -1,7 +1,1 @@
-# qr-code
-Frontend Mentor first project.
-
-# something
-
-i am just checking
-
+That is a mini project from Frontend Mentor 
