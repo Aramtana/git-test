@@ -1,3 +1,2 @@
-# git-test
-My first GitHUb repo!
-Hello Odin!
+# qr-code
+Frontend Mentor first project.
